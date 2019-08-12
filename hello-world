@@ -1,4 +1,4 @@
-echo "# childlike-curiorsity" >> README.md
+echo "# add childlike-curiorsity" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
